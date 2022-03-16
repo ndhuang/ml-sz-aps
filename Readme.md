@@ -13,7 +13,7 @@ The tSZ Cls are computed thanks to a Random Forest trained network (see Douspis 
                         "sig8": 0.8,
                         "alpha":1.77})
 
-* Highell_Cls.Cl_tsz_fromRF(dictionary) uses two input files corresponding to the coefficients of the Random Forest (RF-TSZ-2021-3__clf_rf_params.pickle) and the exponents of the parameters dependency (tRF-TSZ-2021-4__exponents.pickle) stored in tszcl_coeff/ If the RF-params is not already in your directory (first timetry) t will be downloaded. 
+* Highell_Cls.Cl_tsz_fromRF(dictionary) uses two input files corresponding to the coefficients of the Random Forest (RF-TSZ-2021-3__clf_rf_params.pickle) and the exponents of the parameters dependency (tRF-TSZ-2021-4__exponents.pickle) stored in tszcl_coeff/. If the RF-params is not already in your directory (first time try) it will be downloaded. 
 
 ## Licence
 
