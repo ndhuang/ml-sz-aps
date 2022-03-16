@@ -1,5 +1,5 @@
 # Copyright (c) 2022 IAS / CNRS / Univ. Paris-Saclay
-# LGPL License - see attached LICENSE file
+# CC BY-NC License 
 # Author: Marian Douspis <marian.douspis@ias.u-psud.fr>
 
 
