@@ -17,7 +17,7 @@ The tSZ Cls are computed thanks to a Random Forest trained network (see Douspis 
 
 ## Licence
 
-This project is licensed under the LGPL+3.0 licence.
+This project is licensed under the Common Creative CC BY-NC.
 
 ## Acknowledgements
 
