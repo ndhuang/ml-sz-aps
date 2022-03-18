@@ -25,7 +25,7 @@ This project is licensed under the Common Creative CC BY-NC.
 
 ## Acknowledgements
 
-Please acknowledge the use of the code by citing: Douspis, Salvati, Gorce, Aghanim, A&A, 659, A99, 2022 and   
+Please acknowledge the use of the code by citing: [Douspis, Salvati, Gorce, Aghanim, A&A, 659, A99, 2022](https://www.aanda.org/articles/aa/full_html/2022/03/aa42004-21/aa42004-21.html) and   
 adding the following in the acknowledgements: "This work used the RF-High-ell spectra python code available at szdb.osups.universite-paris-saclay.fr"
 
 ## Next
