@@ -30,4 +30,4 @@ adding the following in the acknowledgements: "This work used the RF-High-ell sp
 
 ## Next
 
-Coming soon, the kSZ spectrum computation based on [Gorce et al. 2020](https://arxiv.org/abs/2004.06616) and [Gorce et al. 2022](https://arxiv.org/abs/2202.08698)
+Coming soon, the kSZ spectrum computation based on [Gorce et al. 2020](https://www.aanda.org/articles/aa/full_html/2020/08/aa38170-20/aa38170-20.html) and [Gorce et al. 2022](https://arxiv.org/abs/2202.08698)
