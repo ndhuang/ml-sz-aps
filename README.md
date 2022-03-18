@@ -4,7 +4,7 @@ Provide tools to compute  High ell angular power spectra of SZ related spectra.
 
 ## tSZ Cls spectra
 
-The tSZ Cls are computed thanks to a Random Forest trained network (see [Douspis et al. 2022](https://www.aanda.org/articles/aa/full_html/2022/03/aa42004-21/aa42004-21.html).
+The tSZ Cls are computed thanks to a Random Forest trained network (see [Douspis et al. 2022](https://www.aanda.org/articles/aa/full_html/2022/03/aa42004-21/aa42004-21.html)).
 
 * Highell_Cls.Cl_tsz_fromRF(dictionary) returns ell, Cls between l=2, l=13500 with Cls in muK2 at 143GHz. The dictionary contains cosmological and scaling relation parameters such as: C_SR_params={"bias": 0.8,
                         "H0": 64,
