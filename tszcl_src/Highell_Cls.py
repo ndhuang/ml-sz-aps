@@ -1,6 +1,7 @@
 # Copyright (c) 2022 IAS / CNRS / Univ. Paris-Saclay
 # CC BY-NC License 
 # Author: Marian Douspis <marian.douspis@ias.u-psud.fr>
+# DOI: https://doi.org/10.48326/idoc.cosmo.ml-sz-aps
 
 
 def Cl_tsz_fromRF(C_SR_params={"bias": 0.8,
