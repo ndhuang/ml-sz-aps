@@ -25,12 +25,12 @@ An interactive interface allows you to compute on the fly your prefered tSZ spec
 
 ## Licence
 
-This project is licensed under the Common Creative CC BY-NC.
+This project is licensed under the Common Creative CC BY-NC. DOI: https://doi.org/10.48326/idoc.cosmo.ml-sz-aps
 
 ## Acknowledgements
 
 Please acknowledge the use of the code by citing: [Douspis, Salvati, Gorce, Aghanim, A&A, 659, A99, 2022](https://www.aanda.org/articles/aa/full_html/2022/03/aa42004-21/aa42004-21.html) and   
-adding the following in the acknowledgements: "This work used the RF-High-ell spectra python code available at szdb.osups.universite-paris-saclay.fr"
+adding the following in the acknowledgements: "This work (DOI: https://doi.org/10.48326/idoc.cosmo.ml-sz-aps) used the RF-High-ell spectra python code available at szdb.osups.universite-paris-saclay.fr"
 
 ## Next
 
