@@ -61,7 +61,7 @@ def Cl_tsz_fromRF(C_SR_params={"bias": 0.8,
 
     file4coeff = "{}RF-TSZ-2021-3__clf_rf_params.pickle".format(coeff_path)
     if not os.path.exists(file4coeff):
-        url = 'https://www.ias.u-psud.fr/douspis/RF-TSZ-2021-3__clf_rf_params_dld.pickle'
+        url = 'https://www.ias.u-psud.fr/douspis/RF-TSZ-2021-3__clf_rf_params.pickle'
         r = requests.get(url, allow_redirects=True)
         open(file4coeff, 'wb').write(r.content)
         warnings.warn('Retrieving RF files from {}'.format(url))
