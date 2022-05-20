@@ -1,6 +1,6 @@
 # Highell_Cls
 
-provide tools to compute high multipole (small-scale) angular power spectra of the thermal and kinetic Sunyaev-Zel'dovich effects. Examples of how to obtain such spectra are given in the tutorial notebook.
+provide tools to compute high multipole (small-scale) angular power spectra of the thermal and kinetic Sunyaev-Zel'dovich effects. Examples of how to obtain such spectra are given in the tutorial notebook. Note that the first execution of the notebook or the code will download the RF coefficient files (~200Mb each) and will be much slower than futher executions.  
 
 ## tSZ angular power spectra
 
@@ -13,7 +13,7 @@ The tSZ Cls are computed with a Random Forest network (see Douspis et al. 2022).
                         "sig8": 0.8,
                         "alpha":1.77})
 
-* Highell_Cls.Cl_tsz_fromRF(dictionary) uses two input files corresponding to the coefficients of the Random Forest (RF-TSZ-2021-3__clf_rf_params.pickle) and the exponents of the parameters dependency (tRF-TSZ-2021-4__exponents.pickle) stored in tszcl_coeff/ If the RF-params is not already in your directory (first timetry) t will be downloaded. 
+* Highell_Cls.Cl_tsz_fromRF(dictionary) uses two input files corresponding to the coefficients of the Random Forest (RF-TSZ-2021-3__clf_rf_params.pickle) and the exponents of the parameters dependency (tRF-TSZ-2021-4__exponents.pickle) stored in tszcl_coeff/ If the RF-params is not already in your directory (first timetry) it will be downloaded. 
 
 ## kSZ angular power spectra
 
